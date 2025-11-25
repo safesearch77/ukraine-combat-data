@@ -69,93 +69,65 @@ DIRECTION_ALIASES = {
     'siversk': 'siversk',
 }
 
-# Direction display names and approximate coordinates
+# Direction display names and coordinates (on actual front lines, not city centers)
 DIRECTION_CONFIG = {
     'pokrovsk': {
         'displayName': 'Pokrovsk',
-        'coords': [48.28, 37.18],
-        'polygon': [[48.45, 36.90], [48.50, 37.50], [48.20, 37.60], [48.05, 37.20], [48.15, 36.85]]
+        'coords': [48.22, 37.35],  # West of Pokrovsk, active front
     },
     'kostiantynivka': {
         'displayName': 'Kostiantynivka',
-        'coords': [48.52, 37.70],
-        'polygon': [[48.65, 37.45], [48.70, 37.95], [48.45, 38.00], [48.35, 37.60], [48.50, 37.40]]
+        'coords': [48.60, 37.85],  # Near Chasiv Yar front
     },
     'oleksandrivka': {
         'displayName': 'Oleksandrivka',
-        'coords': [47.95, 36.70],
-        'polygon': [[48.10, 36.50], [48.10, 36.95], [47.85, 37.00], [47.75, 36.65], [47.90, 36.45]]
+        'coords': [47.85, 37.25],  # Kurakhove direction
     },
     'lyman': {
         'displayName': 'Lyman',
-        'coords': [48.98, 37.81],
-        'polygon': [[49.15, 37.50], [49.20, 38.10], [49.00, 38.25], [48.80, 38.00], [48.85, 37.55]]
+        'coords': [49.05, 38.05],  # Kreminna forest front
     },
     'sloviansk': {
         'displayName': 'Sloviansk',
-        'coords': [48.85, 37.58],
-        'polygon': [[48.95, 37.35], [49.00, 37.75], [48.80, 37.85], [48.70, 37.50], [48.80, 37.30]]
+        'coords': [48.92, 37.90],  # Siversk direction
     },
     'huliaipole': {
         'displayName': 'Huliaipole',
-        'coords': [47.65, 36.25],
-        'polygon': [[47.85, 35.90], [47.85, 36.50], [47.55, 36.60], [47.40, 36.20], [47.55, 35.85]]
+        'coords': [47.55, 36.30],  # Zaporizhzhia front
     },
     'orikhiv': {
         'displayName': 'Orikhiv',
-        'coords': [47.56, 35.78],
-        'polygon': [[47.75, 35.50], [47.75, 36.00], [47.45, 36.05], [47.35, 35.65], [47.50, 35.45]]
+        'coords': [47.38, 35.85],  # South Zaporizhzhia
     },
     'kupiansk': {
         'displayName': 'Kupiansk',
-        'coords': [49.71, 37.62],
-        'polygon': [[49.90, 37.30], [49.95, 37.90], [49.70, 38.00], [49.50, 37.70], [49.55, 37.25]]
+        'coords': [49.55, 37.95],  # Oskil river front
     },
     'kramatorsk': {
         'displayName': 'Kramatorsk',
-        'coords': [48.72, 37.55],
-        'polygon': [[48.82, 37.40], [48.85, 37.70], [48.65, 37.75], [48.58, 37.50], [48.68, 37.35]]
+        'coords': [48.62, 37.72],  # Chasiv Yar area
     },
     'kursk': {
         'displayName': 'Kursk (RU)',
-        'coords': [51.40, 35.20],
-        'polygon': [[51.65, 34.60], [51.70, 35.60], [51.35, 35.80], [51.10, 35.30], [51.25, 34.70]]
+        'coords': [51.18, 35.35],  # UA salient in Russia (Sudzha)
     },
     'kharkiv_north': {
         'displayName': 'Kharkiv (N)',
-        'coords': [50.05, 36.45],
-        'polygon': [[50.25, 36.10], [50.30, 36.80], [50.05, 36.95], [49.85, 36.55], [49.95, 36.15]]
+        'coords': [50.28, 36.95],  # Vovchansk front
     },
     'kherson': {
         'displayName': 'Kherson',
-        'coords': [46.65, 32.62],
-        'polygon': [[46.85, 32.20], [46.90, 33.00], [46.55, 33.10], [46.40, 32.60], [46.55, 32.15]]
+        'coords': [46.58, 32.95],  # Dnipro river front
     },
     'toretsk': {
         'displayName': 'Toretsk',
-        'coords': [48.40, 37.85],
-        'polygon': [[48.55, 37.65], [48.55, 38.05], [48.30, 38.10], [48.25, 37.75], [48.40, 37.60]]
+        'coords': [48.38, 37.88],  # Toretsk front
     },
     'siversk': {
         'displayName': 'Siversk',
-        'coords': [48.87, 38.08],
-        'polygon': [[49.00, 37.90], [49.05, 38.30], [48.80, 38.35], [48.72, 38.00], [48.85, 37.85]]
+        'coords': [48.88, 38.15],  # Siversk area
     }
 }
-
-
-def get_heat_level(engagements: int) -> str:
-    """Determine heat level based on engagement count."""
-    if engagements >= 30:
-        return 'extreme'
-    elif engagements >= 15:
-        return 'high'
-    elif engagements >= 8:
-        return 'medium'
-    elif engagements >= 3:
-        return 'low'
-    else:
-        return 'quiet'
 
 
 def parse_engagement_count(text: str) -> dict:
@@ -315,9 +287,7 @@ def build_combat_data(engagement_counts: dict, source_url: str = None) -> dict:
             'name': direction_id,
             'displayName': config['displayName'],
             'coords': config['coords'],
-            'combatEngagements': count,
-            'heat': get_heat_level(count),
-            'polygon': config['polygon']
+            'combatEngagements': count
         })
     
     # Sort by engagement count (highest first)

@@ -3,455 +3,133 @@
   "source": "Ukrainian General Staff",
   "sourceUrl": null,
   "totalEngagements": 107,
-  "lastUpdate": "2025-11-25T22:46:10.408077+00:00",
+  "lastUpdate": "2025-11-25T23:12:29.692562+00:00",
   "frontSectors": [
     {
       "name": "pokrovsk",
       "displayName": "Pokrovsk",
       "coords": [
-        48.28,
-        37.18
+        48.22,
+        37.35
       ],
-      "combatEngagements": 35,
-      "heat": "extreme",
-      "polygon": [
-        [
-          48.45,
-          36.9
-        ],
-        [
-          48.5,
-          37.5
-        ],
-        [
-          48.2,
-          37.6
-        ],
-        [
-          48.05,
-          37.2
-        ],
-        [
-          48.15,
-          36.85
-        ]
-      ]
+      "combatEngagements": 35
     },
     {
       "name": "kostiantynivka",
       "displayName": "Kostiantynivka",
       "coords": [
-        48.52,
-        37.7
+        48.6,
+        37.85
       ],
-      "combatEngagements": 18,
-      "heat": "high",
-      "polygon": [
-        [
-          48.65,
-          37.45
-        ],
-        [
-          48.7,
-          37.95
-        ],
-        [
-          48.45,
-          38.0
-        ],
-        [
-          48.35,
-          37.6
-        ],
-        [
-          48.5,
-          37.4
-        ]
-      ]
+      "combatEngagements": 18
     },
     {
       "name": "oleksandrivka",
       "displayName": "Oleksandrivka",
       "coords": [
-        47.95,
-        36.7
+        47.85,
+        37.25
       ],
-      "combatEngagements": 14,
-      "heat": "medium",
-      "polygon": [
-        [
-          48.1,
-          36.5
-        ],
-        [
-          48.1,
-          36.95
-        ],
-        [
-          47.85,
-          37.0
-        ],
-        [
-          47.75,
-          36.65
-        ],
-        [
-          47.9,
-          36.45
-        ]
-      ]
+      "combatEngagements": 14
     },
     {
       "name": "lyman",
       "displayName": "Lyman",
       "coords": [
-        48.98,
-        37.81
+        49.05,
+        38.05
       ],
-      "combatEngagements": 10,
-      "heat": "medium",
-      "polygon": [
-        [
-          49.15,
-          37.5
-        ],
-        [
-          49.2,
-          38.1
-        ],
-        [
-          49.0,
-          38.25
-        ],
-        [
-          48.8,
-          38.0
-        ],
-        [
-          48.85,
-          37.55
-        ]
-      ]
+      "combatEngagements": 10
     },
     {
       "name": "huliaipole",
       "displayName": "Huliaipole",
       "coords": [
-        47.65,
-        36.25
+        47.55,
+        36.3
       ],
-      "combatEngagements": 8,
-      "heat": "medium",
-      "polygon": [
-        [
-          47.85,
-          35.9
-        ],
-        [
-          47.85,
-          36.5
-        ],
-        [
-          47.55,
-          36.6
-        ],
-        [
-          47.4,
-          36.2
-        ],
-        [
-          47.55,
-          35.85
-        ]
-      ]
+      "combatEngagements": 8
     },
     {
       "name": "sloviansk",
       "displayName": "Sloviansk",
       "coords": [
-        48.85,
-        37.58
+        48.92,
+        37.9
       ],
-      "combatEngagements": 6,
-      "heat": "low",
-      "polygon": [
-        [
-          48.95,
-          37.35
-        ],
-        [
-          49.0,
-          37.75
-        ],
-        [
-          48.8,
-          37.85
-        ],
-        [
-          48.7,
-          37.5
-        ],
-        [
-          48.8,
-          37.3
-        ]
-      ]
+      "combatEngagements": 6
     },
     {
       "name": "kupiansk",
       "displayName": "Kupiansk",
       "coords": [
-        49.71,
-        37.62
+        49.55,
+        37.95
       ],
-      "combatEngagements": 5,
-      "heat": "low",
-      "polygon": [
-        [
-          49.9,
-          37.3
-        ],
-        [
-          49.95,
-          37.9
-        ],
-        [
-          49.7,
-          38.0
-        ],
-        [
-          49.5,
-          37.7
-        ],
-        [
-          49.55,
-          37.25
-        ]
-      ]
+      "combatEngagements": 5
     },
     {
       "name": "orikhiv",
       "displayName": "Orikhiv",
       "coords": [
-        47.56,
-        35.78
+        47.38,
+        35.85
       ],
-      "combatEngagements": 4,
-      "heat": "low",
-      "polygon": [
-        [
-          47.75,
-          35.5
-        ],
-        [
-          47.75,
-          36.0
-        ],
-        [
-          47.45,
-          36.05
-        ],
-        [
-          47.35,
-          35.65
-        ],
-        [
-          47.5,
-          35.45
-        ]
-      ]
+      "combatEngagements": 4
     },
     {
       "name": "kramatorsk",
       "displayName": "Kramatorsk",
       "coords": [
-        48.72,
-        37.55
+        48.62,
+        37.72
       ],
-      "combatEngagements": 3,
-      "heat": "low",
-      "polygon": [
-        [
-          48.82,
-          37.4
-        ],
-        [
-          48.85,
-          37.7
-        ],
-        [
-          48.65,
-          37.75
-        ],
-        [
-          48.58,
-          37.5
-        ],
-        [
-          48.68,
-          37.35
-        ]
-      ]
+      "combatEngagements": 3
     },
     {
       "name": "kursk",
       "displayName": "Kursk (RU)",
       "coords": [
-        51.4,
-        35.2
+        51.18,
+        35.35
       ],
-      "combatEngagements": 2,
-      "heat": "quiet",
-      "polygon": [
-        [
-          51.65,
-          34.6
-        ],
-        [
-          51.7,
-          35.6
-        ],
-        [
-          51.35,
-          35.8
-        ],
-        [
-          51.1,
-          35.3
-        ],
-        [
-          51.25,
-          34.7
-        ]
-      ]
+      "combatEngagements": 2
     },
     {
       "name": "kharkiv_north",
       "displayName": "Kharkiv (N)",
       "coords": [
-        50.05,
-        36.45
+        50.28,
+        36.95
       ],
-      "combatEngagements": 2,
-      "heat": "quiet",
-      "polygon": [
-        [
-          50.25,
-          36.1
-        ],
-        [
-          50.3,
-          36.8
-        ],
-        [
-          50.05,
-          36.95
-        ],
-        [
-          49.85,
-          36.55
-        ],
-        [
-          49.95,
-          36.15
-        ]
-      ]
+      "combatEngagements": 2
     },
     {
       "name": "kherson",
       "displayName": "Kherson",
       "coords": [
-        46.65,
-        32.62
+        46.58,
+        32.95
       ],
-      "combatEngagements": 0,
-      "heat": "quiet",
-      "polygon": [
-        [
-          46.85,
-          32.2
-        ],
-        [
-          46.9,
-          33.0
-        ],
-        [
-          46.55,
-          33.1
-        ],
-        [
-          46.4,
-          32.6
-        ],
-        [
-          46.55,
-          32.15
-        ]
-      ]
+      "combatEngagements": 0
     },
     {
       "name": "toretsk",
       "displayName": "Toretsk",
       "coords": [
-        48.4,
-        37.85
+        48.38,
+        37.88
       ],
-      "combatEngagements": 0,
-      "heat": "quiet",
-      "polygon": [
-        [
-          48.55,
-          37.65
-        ],
-        [
-          48.55,
-          38.05
-        ],
-        [
-          48.3,
-          38.1
-        ],
-        [
-          48.25,
-          37.75
-        ],
-        [
-          48.4,
-          37.6
-        ]
-      ]
+      "combatEngagements": 0
     },
     {
       "name": "siversk",
       "displayName": "Siversk",
       "coords": [
-        48.87,
-        38.08
+        48.88,
+        38.15
       ],
-      "combatEngagements": 0,
-      "heat": "quiet",
-      "polygon": [
-        [
-          49.0,
-          37.9
-        ],
-        [
-          49.05,
-          38.3
-        ],
-        [
-          48.8,
-          38.35
-        ],
-        [
-          48.72,
-          38.0
-        ],
-        [
-          48.85,
-          37.85
-        ]
-      ]
+      "combatEngagements": 0
     }
   ],
   "casualties": {

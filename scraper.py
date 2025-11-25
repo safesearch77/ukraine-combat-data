@@ -359,7 +359,7 @@ def main():
     # Print summary
     print("\nFront Activity:")
     for sector in combat_data['frontSectors'][:5]:
-        print(f"  {sector['displayName']}: {sector['combatEngagements']} ({sector['heat']})")
+        print(f"  {sector['displayName']}: {sector['combatEngagements']} engagements")
 
 
 if __name__ == '__main__':

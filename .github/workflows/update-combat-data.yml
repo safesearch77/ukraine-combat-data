@@ -1,12 +1,12 @@
 name: Update Combat Data
 
 on:
-  # Run daily at 6pm UTC (8pm Kyiv time in winter, 9pm in summer)
   schedule:
     - cron: '0 18 * * *'
-  
-  # Allow manual trigger
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-data:
@@ -34,7 +34,6 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Check if there are changes
           if git diff --quiet combat-data.json; then
             echo "No changes to commit"
           else

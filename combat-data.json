@@ -1,9 +1,9 @@
 {
-  "date": "2025-11-26",
+  "date": "2025-11-27",
   "source": "Ukrainian General Staff",
-  "sourceUrl": null,
-  "totalEngagements": 107,
-  "lastUpdate": "2025-11-26T18:16:11.730490+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4063326-enemy-attack-four-settlements-in-kharkiv-region-during-day.html",
+  "totalEngagements": 0,
+  "lastUpdate": "2025-11-27T18:17:48.372654+00:00",
   "frontSectors": [
     {
       "name": "pokrovsk",
@@ -12,7 +12,7 @@
         48.22,
         37.35
       ],
-      "combatEngagements": 35
+      "combatEngagements": 0
     },
     {
       "name": "kostiantynivka",
@@ -21,7 +21,7 @@
         48.6,
         37.85
       ],
-      "combatEngagements": 18
+      "combatEngagements": 0
     },
     {
       "name": "oleksandrivka",
@@ -30,7 +30,7 @@
         47.85,
         37.25
       ],
-      "combatEngagements": 14
+      "combatEngagements": 0
     },
     {
       "name": "lyman",
@@ -39,16 +39,7 @@
         49.05,
         38.05
       ],
-      "combatEngagements": 10
-    },
-    {
-      "name": "huliaipole",
-      "displayName": "Huliaipole",
-      "coords": [
-        47.55,
-        36.3
-      ],
-      "combatEngagements": 8
+      "combatEngagements": 0
     },
     {
       "name": "sloviansk",
@@ -57,16 +48,16 @@
         48.92,
         37.9
       ],
-      "combatEngagements": 6
+      "combatEngagements": 0
     },
     {
-      "name": "kupiansk",
-      "displayName": "Kupiansk",
+      "name": "huliaipole",
+      "displayName": "Huliaipole",
       "coords": [
-        49.55,
-        37.95
+        47.55,
+        36.3
       ],
-      "combatEngagements": 5
+      "combatEngagements": 0
     },
     {
       "name": "orikhiv",
@@ -75,7 +66,16 @@
         47.38,
         35.85
       ],
-      "combatEngagements": 4
+      "combatEngagements": 0
+    },
+    {
+      "name": "kupiansk",
+      "displayName": "Kupiansk",
+      "coords": [
+        49.55,
+        37.95
+      ],
+      "combatEngagements": 0
     },
     {
       "name": "kramatorsk",
@@ -84,7 +84,7 @@
         48.62,
         37.72
       ],
-      "combatEngagements": 3
+      "combatEngagements": 0
     },
     {
       "name": "kursk",
@@ -93,7 +93,7 @@
         51.18,
         35.35
       ],
-      "combatEngagements": 2
+      "combatEngagements": 0
     },
     {
       "name": "kharkiv_north",
@@ -102,7 +102,7 @@
         50.28,
         36.95
       ],
-      "combatEngagements": 2
+      "combatEngagements": 0
     },
     {
       "name": "kherson",

@@ -1,18 +1,18 @@
 {
-  "date": "2025-12-08",
+  "date": "2025-12-09",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4067243-enemy-attacks-zaporizhzhia-and-region-wounded-reported.html",
-  "totalEngagements": 0,
-  "lastUpdate": "2025-12-08T18:19:59.317585+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4067542-139-combat-engagements-on-front-line-during-day-onethird-in-pokrovsk-direction.html",
+  "totalEngagements": 33,
+  "lastUpdate": "2025-12-09T18:16:45.383389+00:00",
   "frontSectors": [
     {
-      "name": "pokrovsk",
-      "displayName": "Pokrovsk",
+      "name": "oleksandrivka",
+      "displayName": "Oleksandrivka",
       "coords": [
-        48.22,
-        37.35
+        47.85,
+        37.25
       ],
-      "combatEngagements": 0
+      "combatEngagements": 17
     },
     {
       "name": "kostiantynivka",
@@ -21,14 +21,14 @@
         48.6,
         37.85
       ],
-      "combatEngagements": 0
+      "combatEngagements": 16
     },
     {
-      "name": "oleksandrivka",
-      "displayName": "Oleksandrivka",
+      "name": "pokrovsk",
+      "displayName": "Pokrovsk",
       "coords": [
-        47.85,
-        37.25
+        48.22,
+        37.35
       ],
       "combatEngagements": 0
     },

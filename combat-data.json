@@ -1,18 +1,18 @@
 {
-  "date": "2025-12-13",
+  "date": "2025-12-14",
   "source": "Ukrainian General Staff",
-  "sourceUrl": null,
-  "totalEngagements": 33,
-  "lastUpdate": "2025-12-13T18:16:31.415407+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4069493-general-staff-confirms-strikes-on-afipsky-oil-refinery-uryupinsk-oil-depot-and-multiple-russian-facilities-in-occupied-territory-of-ukraine.html",
+  "totalEngagements": 400,
+  "lastUpdate": "2025-12-14T18:17:48.929508+00:00",
   "frontSectors": [
     {
-      "name": "oleksandrivka",
-      "displayName": "Oleksandrivka",
+      "name": "pokrovsk",
+      "displayName": "Pokrovsk",
       "coords": [
-        47.85,
-        37.25
+        48.22,
+        37.35
       ],
-      "combatEngagements": 17
+      "combatEngagements": 400
     },
     {
       "name": "kostiantynivka",
@@ -21,14 +21,14 @@
         48.6,
         37.85
       ],
-      "combatEngagements": 16
+      "combatEngagements": 0
     },
     {
-      "name": "pokrovsk",
-      "displayName": "Pokrovsk",
+      "name": "oleksandrivka",
+      "displayName": "Oleksandrivka",
       "coords": [
-        48.22,
-        37.35
+        47.85,
+        37.25
       ],
       "combatEngagements": 0
     },

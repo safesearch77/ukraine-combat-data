@@ -1,9 +1,9 @@
 {
-  "date": "2025-12-14",
+  "date": "2025-12-15",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4069493-general-staff-confirms-strikes-on-afipsky-oil-refinery-uryupinsk-oil-depot-and-multiple-russian-facilities-in-occupied-territory-of-ukraine.html",
-  "totalEngagements": 400,
-  "lastUpdate": "2025-12-14T18:17:48.929508+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4069923-defense-forces-strike-astrakhan-gas-processing-plant-in-russia-general-staff.html",
+  "totalEngagements": 0,
+  "lastUpdate": "2025-12-15T18:20:15.322129+00:00",
   "frontSectors": [
     {
       "name": "pokrovsk",
@@ -12,7 +12,7 @@
         48.22,
         37.35
       ],
-      "combatEngagements": 400
+      "combatEngagements": 0
     },
     {
       "name": "kostiantynivka",

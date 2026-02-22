@@ -1,9 +1,9 @@
 {
-  "date": "2026-02-21",
+  "date": "2026-02-22",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4093944-ukraines-general-staff-confirms-missile-strike-on-russian-military-plant-in-udmurtia.html",
-  "totalEngagements": 30,
-  "lastUpdate": "2026-02-21T18:22:02.340030+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4094220-frontline-update-53-combat-clashes-since-dawn-fighting-ongoing-on-five-sectors.html",
+  "totalEngagements": 0,
+  "lastUpdate": "2026-02-22T18:22:49.682570+00:00",
   "frontSectors": [
     {
       "name": "pokrovsk",
@@ -12,7 +12,7 @@
         48.22,
         37.35
       ],
-      "combatEngagements": 30
+      "combatEngagements": 0
     },
     {
       "name": "kostiantynivka",

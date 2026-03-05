@@ -1,25 +1,25 @@
 {
-  "date": "2026-03-04",
+  "date": "2026-03-05",
   "source": "Ukrainian General Staff",
-  "sourceUrl": null,
-  "totalEngagements": 0,
-  "lastUpdate": "2026-03-04T18:35:21.749279+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4098193-war-update-118-combat-clashes-on-front-line-over-past-day-pokrovsk-direction-remains-most-active.html",
+  "totalEngagements": 15,
+  "lastUpdate": "2026-03-05T19:09:12.002871+00:00",
   "frontSectors": [
-    {
-      "name": "pokrovsk",
-      "displayName": "Pokrovsk",
-      "coords": [
-        48.22,
-        37.35
-      ],
-      "combatEngagements": 0
-    },
     {
       "name": "kostiantynivka",
       "displayName": "Kostiantynivka",
       "coords": [
         48.6,
         37.85
+      ],
+      "combatEngagements": 15
+    },
+    {
+      "name": "pokrovsk",
+      "displayName": "Pokrovsk",
+      "coords": [
+        48.22,
+        37.35
       ],
       "combatEngagements": 0
     },

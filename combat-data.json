@@ -1,9 +1,9 @@
 {
-  "date": "2026-03-05",
+  "date": "2026-03-06",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4098193-war-update-118-combat-clashes-on-front-line-over-past-day-pokrovsk-direction-remains-most-active.html",
-  "totalEngagements": 15,
-  "lastUpdate": "2026-03-05T19:09:12.002871+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4098830-war-update-56-combat-clashes-since-morning-kostiantynivka-and-pokrovsk-directions-most-active.html",
+  "totalEngagements": 25,
+  "lastUpdate": "2026-03-06T18:32:34.106608+00:00",
   "frontSectors": [
     {
       "name": "kostiantynivka",
@@ -12,7 +12,16 @@
         48.6,
         37.85
       ],
-      "combatEngagements": 15
+      "combatEngagements": 14
+    },
+    {
+      "name": "huliaipole",
+      "displayName": "Huliaipole",
+      "coords": [
+        47.55,
+        36.3
+      ],
+      "combatEngagements": 11
     },
     {
       "name": "pokrovsk",
@@ -47,15 +56,6 @@
       "coords": [
         48.92,
         37.9
-      ],
-      "combatEngagements": 0
-    },
-    {
-      "name": "huliaipole",
-      "displayName": "Huliaipole",
-      "coords": [
-        47.55,
-        36.3
       ],
       "combatEngagements": 0
     },

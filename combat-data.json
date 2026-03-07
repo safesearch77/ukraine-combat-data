@@ -1,34 +1,25 @@
 {
-  "date": "2026-03-06",
+  "date": "2026-03-07",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4098830-war-update-56-combat-clashes-since-morning-kostiantynivka-and-pokrovsk-directions-most-active.html",
-  "totalEngagements": 25,
-  "lastUpdate": "2026-03-06T18:32:34.106608+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4099153-enemy-attacks-civilians-in-kharkiv-region-with-drones-resulting-in-two-deaths.html",
+  "totalEngagements": 0,
+  "lastUpdate": "2026-03-07T18:21:05.827072+00:00",
   "frontSectors": [
-    {
-      "name": "kostiantynivka",
-      "displayName": "Kostiantynivka",
-      "coords": [
-        48.6,
-        37.85
-      ],
-      "combatEngagements": 14
-    },
-    {
-      "name": "huliaipole",
-      "displayName": "Huliaipole",
-      "coords": [
-        47.55,
-        36.3
-      ],
-      "combatEngagements": 11
-    },
     {
       "name": "pokrovsk",
       "displayName": "Pokrovsk",
       "coords": [
         48.22,
         37.35
+      ],
+      "combatEngagements": 0
+    },
+    {
+      "name": "kostiantynivka",
+      "displayName": "Kostiantynivka",
+      "coords": [
+        48.6,
+        37.85
       ],
       "combatEngagements": 0
     },
@@ -56,6 +47,15 @@
       "coords": [
         48.92,
         37.9
+      ],
+      "combatEngagements": 0
+    },
+    {
+      "name": "huliaipole",
+      "displayName": "Huliaipole",
+      "coords": [
+        47.55,
+        36.3
       ],
       "combatEngagements": 0
     },

@@ -1,9 +1,9 @@
 {
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4109865-war-update-150-combat-engagements-on-front-line-over-past-day.html",
-  "totalEngagements": 50,
-  "lastUpdate": "2026-04-07T18:50:46.784788+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4110497-general-staff-confirms-strikes-on-two-oil-depots-in-crimea.html",
+  "totalEngagements": 0,
+  "lastUpdate": "2026-04-08T19:03:18.482328+00:00",
   "frontSectors": [
     {
       "name": "pokrovsk",
@@ -12,7 +12,7 @@
         48.22,
         37.35
       ],
-      "combatEngagements": 31
+      "combatEngagements": 0
     },
     {
       "name": "kostiantynivka",
@@ -21,7 +21,7 @@
         48.6,
         37.85
       ],
-      "combatEngagements": 19
+      "combatEngagements": 0
     },
     {
       "name": "oleksandrivka",

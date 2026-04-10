@@ -1,25 +1,25 @@
 {
-  "date": "2026-04-09",
+  "date": "2026-04-10",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4110650-war-update-164-combat-engagements-between-ukraines-defense-forces-and-russian-troops-on-frontline-over-past-day.html",
-  "totalEngagements": 20,
-  "lastUpdate": "2026-04-09T18:51:28.426070+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4111282-russia-stepping-up-assaults-across-frontline-61-combat-clashes-reported.html",
+  "totalEngagements": 0,
+  "lastUpdate": "2026-04-10T18:39:45.710930+00:00",
   "frontSectors": [
-    {
-      "name": "kostiantynivka",
-      "displayName": "Kostiantynivka",
-      "coords": [
-        48.6,
-        37.85
-      ],
-      "combatEngagements": 20
-    },
     {
       "name": "pokrovsk",
       "displayName": "Pokrovsk",
       "coords": [
         48.22,
         37.35
+      ],
+      "combatEngagements": 0
+    },
+    {
+      "name": "kostiantynivka",
+      "displayName": "Kostiantynivka",
+      "coords": [
+        48.6,
+        37.85
       ],
       "combatEngagements": 0
     },

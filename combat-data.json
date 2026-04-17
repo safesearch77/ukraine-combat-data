@@ -1,25 +1,25 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4113428-general-staff-confirms-hits-on-tuapse-oil-refinery-multiple-military-sites-in-russia-and-occupied-areas.html",
-  "totalEngagements": 0,
-  "lastUpdate": "2026-04-16T18:59:34.942686+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4113807-war-update-40-combat-engagements-on-front-line-since-morning-kostiantynivka-and-pokrovsk-directions-remain-most-active.html",
+  "totalEngagements": 11,
+  "lastUpdate": "2026-04-17T18:44:17.934404+00:00",
   "frontSectors": [
-    {
-      "name": "pokrovsk",
-      "displayName": "Pokrovsk",
-      "coords": [
-        48.22,
-        37.35
-      ],
-      "combatEngagements": 0
-    },
     {
       "name": "kostiantynivka",
       "displayName": "Kostiantynivka",
       "coords": [
         48.6,
         37.85
+      ],
+      "combatEngagements": 11
+    },
+    {
+      "name": "pokrovsk",
+      "displayName": "Pokrovsk",
+      "coords": [
+        48.22,
+        37.35
       ],
       "combatEngagements": 0
     },

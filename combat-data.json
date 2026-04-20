@@ -1,19 +1,10 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4114178-general-staff-confirms-strike-on-atlant-aero-enterprise-in-taganrog-number-of-other-targets-in-temporarily-occupied-territories.html",
-  "totalEngagements": 50,
-  "lastUpdate": "2026-04-19T18:35:11.328749+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4114507-general-staff-confirms-strikes-on-tuapse-refinery-two-russian-landing-ships-oil-depot.html",
+  "totalEngagements": 0,
+  "lastUpdate": "2026-04-20T18:53:02.221178+00:00",
   "frontSectors": [
-    {
-      "name": "orikhiv",
-      "displayName": "Orikhiv",
-      "coords": [
-        47.38,
-        35.85
-      ],
-      "combatEngagements": 50
-    },
     {
       "name": "pokrovsk",
       "displayName": "Pokrovsk",
@@ -65,6 +56,15 @@
       "coords": [
         47.55,
         36.3
+      ],
+      "combatEngagements": 0
+    },
+    {
+      "name": "orikhiv",
+      "displayName": "Orikhiv",
+      "coords": [
+        47.38,
+        35.85
       ],
       "combatEngagements": 0
     },

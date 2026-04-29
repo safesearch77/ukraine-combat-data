@@ -1,25 +1,25 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4117428-general-staff-confirms-another-strike-on-tuapse-refinery.html",
-  "totalEngagements": 0,
-  "lastUpdate": "2026-04-28T19:20:40.865670+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4117940-war-update-54-combat-engagements-on-frontline-since-morning.html",
+  "totalEngagements": 13,
+  "lastUpdate": "2026-04-29T19:09:40.895555+00:00",
   "frontSectors": [
-    {
-      "name": "pokrovsk",
-      "displayName": "Pokrovsk",
-      "coords": [
-        48.22,
-        37.35
-      ],
-      "combatEngagements": 0
-    },
     {
       "name": "kostiantynivka",
       "displayName": "Kostiantynivka",
       "coords": [
         48.6,
         37.85
+      ],
+      "combatEngagements": 13
+    },
+    {
+      "name": "pokrovsk",
+      "displayName": "Pokrovsk",
+      "coords": [
+        48.22,
+        37.35
       ],
       "combatEngagements": 0
     },

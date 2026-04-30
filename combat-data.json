@@ -1,25 +1,25 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4117940-war-update-54-combat-engagements-on-frontline-since-morning.html",
-  "totalEngagements": 13,
-  "lastUpdate": "2026-04-29T19:09:40.895555+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4118397-ukrainian-general-staff-confirms-strikes-on-russias-orsknefteorgsintez-plant-and-two-helicopters.html",
+  "totalEngagements": 0,
+  "lastUpdate": "2026-04-30T19:06:00.906342+00:00",
   "frontSectors": [
-    {
-      "name": "kostiantynivka",
-      "displayName": "Kostiantynivka",
-      "coords": [
-        48.6,
-        37.85
-      ],
-      "combatEngagements": 13
-    },
     {
       "name": "pokrovsk",
       "displayName": "Pokrovsk",
       "coords": [
         48.22,
         37.35
+      ],
+      "combatEngagements": 0
+    },
+    {
+      "name": "kostiantynivka",
+      "displayName": "Kostiantynivka",
+      "coords": [
+        48.6,
+        37.85
       ],
       "combatEngagements": 0
     },

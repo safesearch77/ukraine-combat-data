@@ -1,9 +1,9 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4118992-war-update-51-combat-engagements-on-front-line-since-morning-pokrovsk-direction-remains-hottest.html",
-  "totalEngagements": 18,
-  "lastUpdate": "2026-05-02T18:43:32.506589+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4119086-war-update-141-combat-clashes-over-past-day-fiercest-fighting-in-pokrovsk-sector.html",
+  "totalEngagements": 0,
+  "lastUpdate": "2026-05-03T18:44:16.648681+00:00",
   "frontSectors": [
     {
       "name": "pokrovsk",
@@ -12,7 +12,7 @@
         48.22,
         37.35
       ],
-      "combatEngagements": 18
+      "combatEngagements": 0
     },
     {
       "name": "kostiantynivka",

@@ -1,19 +1,10 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4124130-general-staff-clarifies-results-of-strike-on-ryazan-oil-refinery.html",
-  "totalEngagements": 6,
-  "lastUpdate": "2026-05-16T18:51:39.627620+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4124347-ukrainianmade-weapons-used-to-strike-targets-in-moscow-region-general-staff.html",
+  "totalEngagements": 0,
+  "lastUpdate": "2026-05-17T18:54:47.486619+00:00",
   "frontSectors": [
-    {
-      "name": "kramatorsk",
-      "displayName": "Kramatorsk",
-      "coords": [
-        48.62,
-        37.72
-      ],
-      "combatEngagements": 6
-    },
     {
       "name": "pokrovsk",
       "displayName": "Pokrovsk",
@@ -83,6 +74,15 @@
       "coords": [
         49.55,
         37.95
+      ],
+      "combatEngagements": 0
+    },
+    {
+      "name": "kramatorsk",
+      "displayName": "Kramatorsk",
+      "coords": [
+        48.62,
+        37.72
       ],
       "combatEngagements": 0
     },

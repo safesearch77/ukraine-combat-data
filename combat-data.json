@@ -1,19 +1,10 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4128730-war-update-291-combat-clashes-on-front-line-over-past-day-pokrovsk-sector-remains-most-active.html",
-  "totalEngagements": 40,
-  "lastUpdate": "2026-05-30T18:59:26.638560+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4129096-war-update-77-combat-clashes-along-front-line-since-day-starts.html",
+  "totalEngagements": 0,
+  "lastUpdate": "2026-05-31T19:02:55.135081+00:00",
   "frontSectors": [
-    {
-      "name": "huliaipole",
-      "displayName": "Huliaipole",
-      "coords": [
-        47.55,
-        36.3
-      ],
-      "combatEngagements": 40
-    },
     {
       "name": "pokrovsk",
       "displayName": "Pokrovsk",
@@ -56,6 +47,15 @@
       "coords": [
         48.92,
         37.9
+      ],
+      "combatEngagements": 0
+    },
+    {
+      "name": "huliaipole",
+      "displayName": "Huliaipole",
+      "coords": [
+        47.55,
+        36.3
       ],
       "combatEngagements": 0
     },

@@ -1,18 +1,18 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "source": "Ukrainian General Staff",
-  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4130577-war-update-95-combat-clashes-since-morning-pokrovsk-and-huliaipole-sectors-remain-most-active.html",
-  "totalEngagements": 35,
-  "lastUpdate": "2026-06-04T19:54:18.305081+00:00",
+  "sourceUrl": "https://www.ukrinform.net/rubric-ato/4130645-war-update-224-combat-clashes-intense-fighting-in-pokrovsk-sector.html",
+  "totalEngagements": 0,
+  "lastUpdate": "2026-06-05T19:41:50.367759+00:00",
   "frontSectors": [
     {
-      "name": "huliaipole",
-      "displayName": "Huliaipole",
+      "name": "pokrovsk",
+      "displayName": "Pokrovsk",
       "coords": [
-        47.55,
-        36.3
+        48.22,
+        37.35
       ],
-      "combatEngagements": 23
+      "combatEngagements": 0
     },
     {
       "name": "kostiantynivka",
@@ -20,15 +20,6 @@
       "coords": [
         48.6,
         37.85
-      ],
-      "combatEngagements": 12
-    },
-    {
-      "name": "pokrovsk",
-      "displayName": "Pokrovsk",
-      "coords": [
-        48.22,
-        37.35
       ],
       "combatEngagements": 0
     },
@@ -56,6 +47,15 @@
       "coords": [
         48.92,
         37.9
+      ],
+      "combatEngagements": 0
+    },
+    {
+      "name": "huliaipole",
+      "displayName": "Huliaipole",
+      "coords": [
+        47.55,
+        36.3
       ],
       "combatEngagements": 0
     },
